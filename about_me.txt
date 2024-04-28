@@ -1,1 +1,2 @@
 we are learning python,Git,GitHub and SQL
+we will have seven sprints dealing with the subjects
